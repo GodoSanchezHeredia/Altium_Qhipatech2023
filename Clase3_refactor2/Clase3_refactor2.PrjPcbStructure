@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=U_InputDigital|SchDesignator=U_InputDigital|FileName=InputDigital.SchDoc|SheetNumber= |SymbolType=Device Sheet|RawFileName=InputDigital|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=U_Microcontroller|SchDesignator=U_Microcontroller|FileName=Microcontroller.SchDoc|SheetNumber= |SymbolType=Device Sheet|RawFileName=Microcontroller|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=U_OutputDigital|SchDesignator=U_OutputDigital|FileName=OutputDigital.SchDoc|SheetNumber= |SymbolType=Device Sheet|RawFileName=OutputDigital|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

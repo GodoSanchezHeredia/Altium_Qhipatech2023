@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=circuito1 Member=c11
+Removed Member From Class: ClassName=circuito1 Member=c12
+Removed Member From Class: ClassName=circuito1 Member=c13
+Removed Member From Class: ClassName=circuito1 Member=c14
+Removed Member From Class: ClassName=circuito1 Member=c15
+Change Component Designator: OldDesignator=D1_c11 NewDesignator=D1_led1
+Change Component Designator: OldDesignator=D1_c12 NewDesignator=D1_led2
+Change Component Designator: OldDesignator=D1_c13 NewDesignator=D1_led3
+Change Component Designator: OldDesignator=D1_c14 NewDesignator=D1_led4
+Change Component Designator: OldDesignator=D1_c15 NewDesignator=D1_led5
+Change Component Designator: OldDesignator=R1_c11 NewDesignator=R1_led1
+Change Component Designator: OldDesignator=R1_c12 NewDesignator=R1_led2
+Change Component Designator: OldDesignator=R1_c13 NewDesignator=R1_led3
+Change Component Designator: OldDesignator=R1_c14 NewDesignator=R1_led4
+Change Component Designator: OldDesignator=R1_c15 NewDesignator=R1_led5
+Change Net Name : Old Net Name=NetD1_c11_2 New Net Name=NetD1_led1_2
+Change Net Name : Old Net Name=NetD1_c12_2 New Net Name=NetD1_led2_2
+Change Net Name : Old Net Name=NetD1_c13_2 New Net Name=NetD1_led3_2
+Change Net Name : Old Net Name=NetD1_c14_2 New Net Name=NetD1_led4_2
+Change Net Name : Old Net Name=NetD1_c15_2 New Net Name=NetD1_led5_2
+Change Class Name : Old Net Name=c11 New Net Name=led1
+Change Class Name : Old Net Name=c12 New Net Name=led2
+Change Class Name : Old Net Name=c13 New Net Name=led3
+Change Class Name : Old Net Name=c14 New Net Name=led4
+Change Class Name : Old Net Name=c15 New Net Name=led5
+Added Member To Class: ClassName=circuito1 Member=led1 (circuito1.SchDoc)
+Added Member To Class: ClassName=circuito1 Member=led2 (circuito1.SchDoc)
+Added Member To Class: ClassName=circuito1 Member=led3 (circuito1.SchDoc)
+Added Member To Class: ClassName=circuito1 Member=led4 (circuito1.SchDoc)
+Added Member To Class: ClassName=circuito1 Member=led5 (circuito1.SchDoc)

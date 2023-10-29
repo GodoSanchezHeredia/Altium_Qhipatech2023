@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=GND Pin=D?-1
+Added Component: Designator=CN?(TB508-05)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TB-05"; VariantName = "[No Variations]"
+Added Component: Designator=D?_c11(LED-0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D?_c12(LED-0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D?_c13(LED-0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D?_c14(LED-0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D?_c15(LED-0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=R?_c11(R2512)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k0"; VariantName = "[No Variations]"
+Added Component: Designator=R?_c12(R2512)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k0"; VariantName = "[No Variations]"
+Added Component: Designator=R?_c13(R2512)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k0"; VariantName = "[No Variations]"
+Added Component: Designator=R?_c14(R2512)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k0"; VariantName = "[No Variations]"
+Added Component: Designator=R?_c15(R2512)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?_c11-1
+Added Pin To Net: NetName=GND Pin=D?_c12-1
+Added Pin To Net: NetName=GND Pin=D?_c13-1
+Added Pin To Net: NetName=GND Pin=D?_c14-1
+Added Pin To Net: NetName=GND Pin=D?_c15-1
+Added Pin To Net: NetName=IN1 Pin=CN?-1
+Added Pin To Net: NetName=IN1 Pin=R?_c11-1
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=CN?-2
+Added Pin To Net: NetName=IN2 Pin=R?_c12-1
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=CN?-3
+Added Pin To Net: NetName=IN3 Pin=R?_c13-1
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4 Pin=CN?-4
+Added Pin To Net: NetName=IN4 Pin=R?_c14-1
+Added Net: Name=IN4
+Added Pin To Net: NetName=IN5 Pin=CN?-5
+Added Pin To Net: NetName=IN5 Pin=R?_c15-1
+Added Net: Name=IN5
+Added Pin To Net: NetName=NetD?_c11_2 Pin=D?_c11-2
+Added Pin To Net: NetName=NetD?_c11_2 Pin=R?_c11-2
+Added Net: Name=NetD?_c11_2
+Added Pin To Net: NetName=NetD?_c12_2 Pin=D?_c12-2
+Added Pin To Net: NetName=NetD?_c12_2 Pin=R?_c12-2
+Added Net: Name=NetD?_c12_2
+Added Pin To Net: NetName=NetD?_c13_2 Pin=D?_c13-2
+Added Pin To Net: NetName=NetD?_c13_2 Pin=R?_c13-2
+Added Net: Name=NetD?_c13_2
+Added Pin To Net: NetName=NetD?_c14_2 Pin=D?_c14-2
+Added Pin To Net: NetName=NetD?_c14_2 Pin=R?_c14-2
+Added Net: Name=NetD?_c14_2
+Added Pin To Net: NetName=NetD?_c15_2 Pin=D?_c15-2
+Added Pin To Net: NetName=NetD?_c15_2 Pin=R?_c15-2
+Added Net: Name=NetD?_c15_2
+Added Class: Name=c11
+Added Class: Name=c12
+Added Class: Name=c13
+Added Class: Name=c14
+Added Class: Name=c15
+Added Class: Name=IN[1..5]
+Added Class: Name=circuito1
+Added Member To Class: ClassName=Sheet1 Member=Component CN? TB-05

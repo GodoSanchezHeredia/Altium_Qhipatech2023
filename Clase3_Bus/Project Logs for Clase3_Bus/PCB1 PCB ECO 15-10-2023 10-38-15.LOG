@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=DigOut2 Pin=R19-2
+Added Pin To Net: NetName=DigOut8 Pin=U1-2
+Added Pin To Net: NetName=IN1 Pin=U1-5
+Added Pin To Net: NetName=IN2 Pin=U1-6
+Added Pin To Net: NetName=IN9 Pin=U1-17
+Added Pin To Net: NetName=DigOut3 Pin=U1-25
+Added Pin To Net: NetName=DigOut4 Pin=U1-26
