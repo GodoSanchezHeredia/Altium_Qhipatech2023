@@ -1,0 +1,32 @@
+Added Component: Designator=IC1(E22-900M22S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/E22-900M22S/EBYTE/view-part/5137737/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "EBYTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "E22-900M22S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/E22-900M22S/EBYTE/view-part/5137737/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Pin To Net: NetName=RXEN Pin=IC1-6
+Added Pin To Net: NetName=TXEN Pin=IC1-7
+Added Pin To Net: NetName=DIO2 Pin=IC1-8
+Added Pin To Net: NetName=+3V3 Pin=IC1-9
+Added Pin To Net: NetName=GND Pin=IC1-10
+Added Pin To Net: NetName=GND Pin=IC1-11
+Added Pin To Net: NetName=GND Pin=IC1-12
+Added Pin To Net: NetName=DIO1 Pin=IC1-13
+Added Pin To Net: NetName=BUSY Pin=IC1-14
+Added Pin To Net: NetName=NRST Pin=IC1-15
+Added Pin To Net: NetName=MISO Pin=IC1-16
+Added Pin To Net: NetName=MOSI Pin=IC1-17
+Added Pin To Net: NetName=SCK Pin=IC1-18
+Added Pin To Net: NetName=NSS Pin=IC1-19
+Added Pin To Net: NetName=GND Pin=IC1-20
+Added Pin To Net: NetName=NetIC1_21 Pin=IC1-21
+Added Pin To Net: NetName=GND Pin=IC1-22
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 E22-900M22S
